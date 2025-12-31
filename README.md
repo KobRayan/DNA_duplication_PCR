@@ -8,6 +8,8 @@ This project involved the design and automation of a microfluidic characterizati
 
 This work contributed to the doctoral thesis research of Clémence Biscara at the Institut Jean Lamour.
 
+For more information about the workings of this project, check out the provided images in the **assets** folder.
+
 ## Key Technical Contributions
 
 ### 1. Automation & Control System
@@ -17,6 +19,16 @@ This work contributed to the doctoral thesis research of Clémence Biscara at th
     * Hybridization (60 C)
     * Elongation (72 C)
 * **State Machine:** Implemented a robust state machine in LabVIEW to handle the logic flow between heating, cooling, and dwelling phases.
+
+<br>
+
+<p align="center">
+  <img src="assets/pcr_cycles.png"
+       alt="PCR cycles using our controller"
+       width="500">
+</p>
+
+<br>
 
 ### 2. Hardware Interfacing & Integration
 Developed drivers and communication protocols to interface multiple laboratory instruments into a centralized control loop:
