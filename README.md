@@ -1,4 +1,4 @@
-# Development of a Characterization Bench for DNA Duplication via SAW-assisted PCR
+# DNA Duplication via SAW-assisted PCR
 
 **Institution:** Institut Jean Lamour / Polytech Nancy
 **Context:** Research and Development (Third-year Engineering Project)
